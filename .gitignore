@@ -1,0 +1,46 @@
+
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/vscode/
+**/datasets/
+**/VOCdevkit/
+*.pt
+*.tar
+**/voc07_train.json
+**/voc07_val.json
+gitbackup/
+**/mnist_dataset/
+
+money_records/
+dict_main.py
+main.py
+numpy_main.py
+simluate_GINI.py
+tempCodeRunnerFile.py
+.idea/
+
+_MACOSX/
+
+A1/.ipynb_checkpoints
+
+A1/__pycache__
+A1/cifar-10-python.tar.gz
+A1/cifar-10-batches-py
+A2/__pycache__
+A2/.ipynb_checkpoints
+A2/cifar-10-python.tar.gz
+A2/cifar-10-batches-py
+A3/__pycache__
+A3/.ipynb_checkpoints
+A3/cifar-10-python.tar.gz
+A3/cifar-10-batches-py
+A3/convolutional_networks - 副本.py
+A3/fully_connected_networks - 副本.py
+A3/one_minute_deepconvnet.pth
+A3/overfit_deepconvnet.pth
+A3/best_overfit_five_layer_net.pth
+A3/best_two_layer_net.pth
+A3/auxiliary learing.ipynb
+A3/mnist_dataset
+A3/convolutional_networks - 副本 (2).py
+A3/Untitled.ipynb

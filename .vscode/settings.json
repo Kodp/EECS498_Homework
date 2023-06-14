@@ -1,7 +1,0 @@
-{
-    "editor.fontSize": 16,
-    "[python]": {
-        "editor.defaultFormatter": "ms-python.python"
-    },
-    "python.formatting.provider": "none"
-}

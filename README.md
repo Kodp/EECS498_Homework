@@ -1,13 +1,13 @@
 # EECS498_Homework
 
 ## English
-Solution of EECS498-008/007 Homework.Currently updating.
+Solution of EECS498-008/007 Homework.Pause.
 
 Course Home Page：https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/ 
 
 
 ## 简体中文
-EECS498-008/007的课后作业代码（附有详细注释），目前正在更新！
+EECS498-008/007的课后作业代码（附有详细注释），暂停更新！
 
 作业讲解视频：https://www.bilibili.com/video/BV1vs4y1X7aD/?spm_id_from=333.999.0.0
 
